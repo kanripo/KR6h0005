@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:09.351559
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:14
 #+TITLE: 佛說無言童子經
 #+PROPERTY: CBETA_ID T13n0401
 #+PROPERTY: ID KR6h0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 401
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6h0005_T_000-0522c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:KR6h0005_T_002-0529b> ¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6h0005_T_002-0529b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說無言童子經》卷下¶
+《佛說無言童子經》卷下¶
 ¶
 西晉月支三藏竺法護譯¶
 
@@ -803,7 +802,7 @@
 尋時逮得柔順法忍。
 <pb:KR6h0005_T_002-0536a>¶
 
-爾時世尊告賢者阿難：「受是經法，持諷誦讀，¶
+爾時世尊告賢者何難：「受是經法，持諷誦讀，¶
 具足廣普為他人說。所以者何？過去當來今¶
 諸佛大聖道德所興，皆出是法經典藏門。無¶
 言菩薩今來至此，思惟真諦宣暢於斯無量¶
